@@ -1,0 +1,58 @@
+.p{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+h3{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.imgform{
+    height: 30rem;
+    margin-left: 50px;
+}
+
+.footer{
+    background-color: rgb(0, 0, 47);
+}
+
+.cardtestimony{
+    width: 18rem; 
+    margin: 15px;
+}
+
+.jc{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.logo{
+    height: auto; 
+    width: 100px;
+}
+
+.logo_ft{
+    height: auto; 
+    width: 150px;
+}
+
+.jr{
+    padding: 70px;
+}
+
+.gm_form{
+    height: 400px;
+}
+
+.mg_tp{
+    margin-top: 30px;
+}
+
+.cr{
+    height: auto;
+}
+
+.uk{
+    height: 10%;
+}
